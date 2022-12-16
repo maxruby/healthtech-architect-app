@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Architecture for Healthcare and Life Sciences applications
         </a>
       </header>
     </div>
